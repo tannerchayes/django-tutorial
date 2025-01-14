@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-&av)1x2t8kt*&k_agk!*fmb$6=n70#=4c6ch*zp@#5+9r3+cnx
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "127.0.0.1","localhost",
+    "127.0.0.1","localhost","lionfish-app-397vz.ondigitalocean.app",
 ]
 
 
